@@ -4,7 +4,7 @@ package com.test.overview;
 public class Person extends Base {
     public String name;
 
-    public Person(){}
+
 
     public String getName() {
         return name;
